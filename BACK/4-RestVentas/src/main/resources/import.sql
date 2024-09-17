@@ -1,0 +1,2 @@
+--insert into socio (id, dni, nombre, a_Paterno, a_Materno, correo, telefono, estado, t_Membresía) values ('1', '47272972','Jorge', 'Garcia','Aguirre', 'prueba1@gmail.com', '485632', 1, 'GOLD');
+--insert into socio (id, dni, nombre, a_Paterno, a_Materno, correo, telefono, estado, t_Membresía) values ('2', '47272973','Andres', 'Aguirre','Garcia', 'prueba2@gmail.com', '482662', 0, 'PLATINUM');

@@ -1,0 +1,7 @@
+CON INTELLIJ EJECUTAR LOS PROYECTOS EN EL SIGUIENTE ORDEN:
+
+1) 1-eureka-server - JAVA 17 - URL EUREKA -> http://localhost:8761/
+2) 2-config-server - JAVA 17
+3) 3-RestLibro - JAVA 8
+4) 4-RestVentas - JAVA 17
+5) 5-zuulServer - JAVA 17

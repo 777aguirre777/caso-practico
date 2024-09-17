@@ -1,0 +1,9 @@
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">{{responseLibro.nombre}}</h5>
+        <p class="card-text">Código de libro: {{responseLibro.codigoLibro}}</p>
+        <p class="card-text">Precio: {{responseLibro.price}}</p>
+        <button class="btn btn-primary"
+        (click)="onAddCart(responseLibro)">Agregar al carro</button>
+    </div>
+</div>
